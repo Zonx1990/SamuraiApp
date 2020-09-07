@@ -19,7 +19,7 @@ namespace ConsoleApp1
         }
         private static void AddSamurai()
         {
-            var samurai = new Samurai { Name = "Julie" };
+            var samurai = new Samurai { Name = "Sampson" };
             context.Samurais.Add(samurai);
             context.SaveChanges();
         }
