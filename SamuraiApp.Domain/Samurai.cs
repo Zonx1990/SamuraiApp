@@ -5,7 +5,7 @@ using System.Text;
 namespace SamuraiApp.Domain
 {
     public class Samurai
-    {
+    { //Branch 3
         public Samurai()
        {
            Quotes = new List<Quote>();
