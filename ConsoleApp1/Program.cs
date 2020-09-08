@@ -2,7 +2,7 @@
 using SamuraiApp.Data;
 using SamuraiApp.Domain;
 using System.Linq;
-
+using Microsoft.EntityFrameworkCore;
 namespace ConsoleApp1
 {
    internal class Program
