@@ -4,10 +4,10 @@ using System.Text;
 
 namespace SamuraiApp.Domain
 {
-    public class Horse
+    public partial class SamuraiBattleStat
     {
-        public int Id { get; set; }
         public string Name { get; set; }
-        public int SamuraiId { get; set; }
+        public int? NumberOfBattle { get; set; }
+        public string EarliestBattle { get; set; }
     }
 }

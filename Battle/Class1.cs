@@ -1,8 +1,9 @@
 ﻿using System;
 
-namespace SamuraiApp.Domain
+namespace Battle
 {
     public class Class1
     {
+
     }
 }
